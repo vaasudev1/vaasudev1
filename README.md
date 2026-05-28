@@ -1,16 +1,52 @@
-## Hi there 👋
+# Vaasudev
 
-<!--
-**vaasudev1/vaasudev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. Computer Science Student at BITS Pilani
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Computer Science student interested in programming, software development, and web technologies.
+Currently learning and building projects to improve problem-solving and development skills.
+
+---
+
+## Skills
+
+### Programming Languages
+
+* C
+* Java
+* Python
+* JavaScript
+
+### Web Development
+
+* HTML
+* CSS
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* SQL
+---
+
+### Internships 
+FoundershipHQ accelerator Bangalore 
+
+
+## Currently Learning
+
+* Data Structures and Algorithms
+* Full Stack Development
+* Software Engineering Concepts
+
+---
+
+## Contact
+
+GitHub: https://github.com/vaasudev1
+LinkedIn: https://www.linkedin.com/in/vaasudev-vinay-vaidya-ab8800411
+
