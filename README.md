@@ -39,9 +39,9 @@ FoundershipHQ accelerator Bangalore
 
 ## Currently Learning
 
-* Data Structures and Algorithms
+* Web Development
 * Full Stack Development
-* Software Engineering Concepts
+* Software Development
 
 ---
 
